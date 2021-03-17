@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "aws-sdk": "^2.814.0",
-    "debug": "2.6.9"
+    "debug": "2.6.9",
+    "typescript": "^3.7.3"
   },
   "devDependencies": {
     "@apollo/client": "^3.2.0"
